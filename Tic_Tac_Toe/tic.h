@@ -15,7 +15,7 @@ using namespace std;
 class tBoard
 {
 private:
-	//You can pick your own data structure
+	//You can pick your own data structure.
 	string pos[9]; //Refers to each valid input places
 	int moves_rem; // To store remaining moves
 	string win; // Store the Winner's symbol
