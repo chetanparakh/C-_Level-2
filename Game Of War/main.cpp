@@ -4,7 +4,7 @@
 //
 // ----------------------------------------------------------------------------
 //
-//  Purpose  : To Create a Sumulated Game of War
+//  Purpose  : To Create a Simulated Game of War
 //
 //  Author   : Chetan Kumar Parakh
 //  Date     : 5/7/2016
