@@ -4,7 +4,7 @@
 //
 // ----------------------------------------------------------------------------
 //
-//  Purpose  : Implement methods declared in "tic.h" header file required to play tic-tac-toe game
+//  Purpose  : Implement methods declared in "tic.h" header file required to play tic-tac-toe game.
 //
 //  Author   : Chetan Kumar Parakh
 //  Date     : 4/29/2016
