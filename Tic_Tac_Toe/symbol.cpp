@@ -40,7 +40,7 @@ symbol& operator++(symbol& my_symbol)
 	}
 	return my_symbol;
 }
-//Post a++ increment
+//Post a++ increment.
 symbol operator++(symbol & my_symbol, int)
 {
 	//The postfix a++ operator returns
