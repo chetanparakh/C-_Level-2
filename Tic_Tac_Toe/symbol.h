@@ -15,7 +15,7 @@ enum symbol { X, O, BLANK };
 std::ostream & operator<<(std::ostream& os, const symbol& my_symbol);
 //Prefix ++a increment
 symbol& operator++(symbol& my_symbol);
-//Postfix a++ increment
+//Postfix a++ increment.
 symbol operator++(symbol & my_symbol, int);
 
 #endif
